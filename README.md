@@ -47,4 +47,4 @@ An aspiring **Cloud & DevOps Engineer** passionate about **Microsoft Azure**, cl
 
 ---
 
-📫 **How to reach me:** Feel free to connect for cloud discussions or project collaborations!
+📫 **How to reach me:** Feel free to connect for cloud discussions or project collaborations.
